@@ -28,6 +28,6 @@ CSS rules are dynamically applied based on user choices, guaranteeing a consiste
 
 License:
 This extension is open source and free to use, allowing users to modify and contribute to its development.
-[License](https://github.com/Shekkis/Dark-Mode-Extension/blob/main/License.txt)
+License: https://github.com/Shekkis/Dark-Mode-Extension/blob/main/License.txt
 
 Feel free to adjust any part of it according to your preferences!
