@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="popup.css">
+  <title>Elegant Dark Mode</title>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>Elegant Dark</h1>
+      <div class="global-toggle">
+        <input type="checkbox" id="globalToggle" class="toggle-input">
+        <label for="globalToggle" class="toggle-label"></label>
+      </div>
+    </div>
+    
+    <div class="site-settings">
+      <h2>Site Settings</h2>
+      <div class="current-site">
+        <span id="currentSite"></span>
+        <div class="site-toggle">
+          <input type="checkbox" id="siteToggle" class="toggle-input">
+          <label for="siteToggle" class="toggle-label"></label>
+        </div>
+      </div>
+    </div>
+
+    <div class="customization">
+      <h2>Customize</h2>
+      <div class="slider-container">
+        <label for="contrast">Contrast</label>
+        <input type="range" id="contrast" min="80" max="120" value="100">
+      </div>
+      <div class="slider-container">
+        <label for="brightness">Brightness</label>
+        <input type="range" id="brightness" min="80" max="120" value="100">
+      </div>
+    </div>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>

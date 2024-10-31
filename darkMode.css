@@ -1,0 +1,4 @@
+/* Base dark mode styles that will be applied through content script */
+:root {
+  color-scheme: dark;
+}
