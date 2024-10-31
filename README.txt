@@ -1,4 +1,4 @@
-Dark Mode Extension for Edge
+##Dark Mode Extension for Edge
 
 Overview
 This open-source extension allows users to easily toggle dark mode on and off for all websites, enhancing the browsing experience, especially in low-light environments. It also provides the option to disable dark mode for specific sites, with user preferences remembered for future visits.
